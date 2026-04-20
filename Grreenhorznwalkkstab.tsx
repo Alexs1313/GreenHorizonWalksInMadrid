@@ -101,7 +101,7 @@ const GrreenhorznwalkkstabIcon = ({
 const grreenhorznwalkkstabBarBackground = () => (
   <LinearGradient
     pointerEvents="none"
-    colors={['#0A0A0A', '#0A0A0A']}
+    colors={['rgb(42, 39, 39)', 'rgb(33, 29, 29)']}
     style={StyleSheet.absoluteFill}
   />
 );

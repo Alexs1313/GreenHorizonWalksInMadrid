@@ -1,4 +1,4 @@
-package com.greenhorizonwalksinmadrid
+package com.madrid.horizon.hran.walks
 
 import android.app.Application
 import com.facebook.react.PackageList

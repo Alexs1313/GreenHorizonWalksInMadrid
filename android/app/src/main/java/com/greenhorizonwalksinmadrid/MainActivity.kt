@@ -1,4 +1,4 @@
-package com.greenhorizonwalksinmadrid
+package com.madrid.horizon.hran.walks
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

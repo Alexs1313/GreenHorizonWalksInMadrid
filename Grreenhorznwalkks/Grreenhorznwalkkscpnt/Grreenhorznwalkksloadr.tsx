@@ -40,7 +40,10 @@ const Grreenhorznwalkksloadr = () => {
             justifyContent: 'center',
             height: 550,
           }}>
-          <Image source={require('../../assets/i/grreenhorznwalload.png')} />
+          <Image
+            source={require('../../assets/i/grreenhorztragladr.png')}
+            style={{width: 230, height: 230, borderRadius: 52}}
+          />
         </View>
 
         <View
@@ -51,8 +54,9 @@ const Grreenhorznwalkksloadr = () => {
             left: 0,
             right: 0,
           }}>
-          <Text style={styles.grreenhorznwalkksTitle}>Green Horizon Walks</Text>
-          <Text style={styles.grreenhorznwalkksSubtitle}>MADRID</Text>
+          <Text style={styles.grreenhorznwalkksTitle}>
+            {`Madrid Horizon\nHran Walks`}
+          </Text>
         </View>
       </ScrollView>
     </View>
@@ -80,6 +84,7 @@ const styles = StyleSheet.create({
     fontFamily: 'CormorantGaramond-Medium',
     color: '#fff',
     letterSpacing: 1.5,
+    textAlign: 'center',
   },
   grreenhorznwalkksSubtitle: {
     fontSize: 20,
