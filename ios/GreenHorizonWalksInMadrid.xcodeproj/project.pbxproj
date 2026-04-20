@@ -7,24 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		000F6B72CD8841DEA22AB294 /* Manrope-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DDE2813952EE41E7B94E2DF4 /* Manrope-ExtraLight.ttf */; };
+		0B6439B1BBAC414994DB79F0 /* Manrope-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 036B3836676E4985A7DDDA22 /* Manrope-Medium.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-GreenHorizonWalksInMadrid.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-GreenHorizonWalksInMadrid.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		1DDFD2B2FAAF4ADA9F40DCED /* CormorantGaramond-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8DADA40621684F6983EEC1B1 /* CormorantGaramond-SemiBoldItalic.ttf */; };
+		2EAF73991CBD482A8808AEE6 /* CormorantGaramond-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D76EDB9C0584629BE090A78 /* CormorantGaramond-Light.ttf */; };
 		3BE34083499EE71FA98F15FE /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		4E269A4510F5479E9A8DF807 /* Manrope-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AD56811D3E64B9A9559FFA7 /* Manrope-Bold.ttf */; };
+		6E0ABE61F0C0480BA409261E /* CormorantGaramond-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 665E586FD4914D1A8BF779A5 /* CormorantGaramond-Medium.ttf */; };
+		6E7AF9A502064FFBB8B84B81 /* CormorantGaramond-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6FF1366124D24BEDB4AA8C03 /* CormorantGaramond-Italic.ttf */; };
+		721E6C8056D745B588824F81 /* CormorantGaramond-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA3269CB380747B78676B920 /* CormorantGaramond-Regular.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
+		7DD9C46BCF7E45D7B84A976E /* Manrope-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA7AE2B5A0F14B01836CBCDC /* Manrope-SemiBold.ttf */; };
+		8134A4B70782444FB1123095 /* Manrope-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3A8CA7D7730945168735A71F /* Manrope-Regular.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A74745CDFA4043E0ADE9351D /* CormorantGaramond-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9EBF9B6C09C74B4EBD160D66 /* CormorantGaramond-MediumItalic.ttf */; };
+		B00F5B784AF24E2EA72851EC /* CormorantGaramond-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5F603BDFBF35482CB3931332 /* CormorantGaramond-LightItalic.ttf */; };
+		B3BDC7CCD67644EF89489AF4 /* Manrope-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA708A00D6334D3F811C0CF0 /* Manrope-Light.ttf */; };
+		B5C4D5E35D834483AA4AE6C8 /* CormorantGaramond-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1D003BAB3D2A48B3BEE16AC4 /* CormorantGaramond-Bold.ttf */; };
+		BA3297C1EC1D4C638D3FB2F3 /* CormorantGaramond-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 706FD81C9AAB456884173D4F /* CormorantGaramond-BoldItalic.ttf */; };
+		C979A3AFA2F64F0D985D1396 /* CormorantGaramond-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 47F2ECBFC8A84AA0BF38F212 /* CormorantGaramond-SemiBold.ttf */; };
+		EE7C10EB208E470282C7E372 /* Manrope-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2CE8A5F8027543EDB6686F51 /* Manrope-ExtraBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		036B3836676E4985A7DDDA22 /* Manrope-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Medium.ttf"; path = "../assets/f/Manrope-Medium.ttf"; sourceTree = "<group>"; };
+		0AD56811D3E64B9A9559FFA7 /* Manrope-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Bold.ttf"; path = "../assets/f/Manrope-Bold.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* GreenHorizonWalksInMadrid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GreenHorizonWalksInMadrid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = GreenHorizonWalksInMadrid/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = GreenHorizonWalksInMadrid/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = GreenHorizonWalksInMadrid/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		1D003BAB3D2A48B3BEE16AC4 /* CormorantGaramond-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-Bold.ttf"; path = "../assets/f/CormorantGaramond-Bold.ttf"; sourceTree = "<group>"; };
+		2CE8A5F8027543EDB6686F51 /* Manrope-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-ExtraBold.ttf"; path = "../assets/f/Manrope-ExtraBold.ttf"; sourceTree = "<group>"; };
+		3A8CA7D7730945168735A71F /* Manrope-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Regular.ttf"; path = "../assets/f/Manrope-Regular.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-GreenHorizonWalksInMadrid.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenHorizonWalksInMadrid.debug.xcconfig"; path = "Target Support Files/Pods-GreenHorizonWalksInMadrid/Pods-GreenHorizonWalksInMadrid.debug.xcconfig"; sourceTree = "<group>"; };
+		47F2ECBFC8A84AA0BF38F212 /* CormorantGaramond-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-SemiBold.ttf"; path = "../assets/f/CormorantGaramond-SemiBold.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-GreenHorizonWalksInMadrid.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenHorizonWalksInMadrid.release.xcconfig"; path = "Target Support Files/Pods-GreenHorizonWalksInMadrid/Pods-GreenHorizonWalksInMadrid.release.xcconfig"; sourceTree = "<group>"; };
+		5D76EDB9C0584629BE090A78 /* CormorantGaramond-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-Light.ttf"; path = "../assets/f/CormorantGaramond-Light.ttf"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-GreenHorizonWalksInMadrid.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GreenHorizonWalksInMadrid.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F603BDFBF35482CB3931332 /* CormorantGaramond-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-LightItalic.ttf"; path = "../assets/f/CormorantGaramond-LightItalic.ttf"; sourceTree = "<group>"; };
+		665E586FD4914D1A8BF779A5 /* CormorantGaramond-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-Medium.ttf"; path = "../assets/f/CormorantGaramond-Medium.ttf"; sourceTree = "<group>"; };
+		6FF1366124D24BEDB4AA8C03 /* CormorantGaramond-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-Italic.ttf"; path = "../assets/f/CormorantGaramond-Italic.ttf"; sourceTree = "<group>"; };
+		706FD81C9AAB456884173D4F /* CormorantGaramond-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-BoldItalic.ttf"; path = "../assets/f/CormorantGaramond-BoldItalic.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = GreenHorizonWalksInMadrid/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = GreenHorizonWalksInMadrid/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8DADA40621684F6983EEC1B1 /* CormorantGaramond-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-SemiBoldItalic.ttf"; path = "../assets/f/CormorantGaramond-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		9EBF9B6C09C74B4EBD160D66 /* CormorantGaramond-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-MediumItalic.ttf"; path = "../assets/f/CormorantGaramond-MediumItalic.ttf"; sourceTree = "<group>"; };
+		DDE2813952EE41E7B94E2DF4 /* Manrope-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-ExtraLight.ttf"; path = "../assets/f/Manrope-ExtraLight.ttf"; sourceTree = "<group>"; };
+		EA7AE2B5A0F14B01836CBCDC /* Manrope-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-SemiBold.ttf"; path = "../assets/f/Manrope-SemiBold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FA3269CB380747B78676B920 /* CormorantGaramond-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CormorantGaramond-Regular.ttf"; path = "../assets/f/CormorantGaramond-Regular.ttf"; sourceTree = "<group>"; };
+		FA708A00D6334D3F811C0CF0 /* Manrope-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Light.ttf"; path = "../assets/f/Manrope-Light.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +94,30 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5952D8905E244AAF8EEC9C1F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6FF1366124D24BEDB4AA8C03 /* CormorantGaramond-Italic.ttf */,
+				706FD81C9AAB456884173D4F /* CormorantGaramond-BoldItalic.ttf */,
+				5F603BDFBF35482CB3931332 /* CormorantGaramond-LightItalic.ttf */,
+				5D76EDB9C0584629BE090A78 /* CormorantGaramond-Light.ttf */,
+				47F2ECBFC8A84AA0BF38F212 /* CormorantGaramond-SemiBold.ttf */,
+				9EBF9B6C09C74B4EBD160D66 /* CormorantGaramond-MediumItalic.ttf */,
+				FA3269CB380747B78676B920 /* CormorantGaramond-Regular.ttf */,
+				1D003BAB3D2A48B3BEE16AC4 /* CormorantGaramond-Bold.ttf */,
+				8DADA40621684F6983EEC1B1 /* CormorantGaramond-SemiBoldItalic.ttf */,
+				665E586FD4914D1A8BF779A5 /* CormorantGaramond-Medium.ttf */,
+				036B3836676E4985A7DDDA22 /* Manrope-Medium.ttf */,
+				EA7AE2B5A0F14B01836CBCDC /* Manrope-SemiBold.ttf */,
+				2CE8A5F8027543EDB6686F51 /* Manrope-ExtraBold.ttf */,
+				3A8CA7D7730945168735A71F /* Manrope-Regular.ttf */,
+				DDE2813952EE41E7B94E2DF4 /* Manrope-ExtraLight.ttf */,
+				FA708A00D6334D3F811C0CF0 /* Manrope-Light.ttf */,
+				0AD56811D3E64B9A9559FFA7 /* Manrope-Bold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -75,6 +133,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				5952D8905E244AAF8EEC9C1F /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -161,6 +220,23 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				3BE34083499EE71FA98F15FE /* PrivacyInfo.xcprivacy in Resources */,
+				6E7AF9A502064FFBB8B84B81 /* CormorantGaramond-Italic.ttf in Resources */,
+				BA3297C1EC1D4C638D3FB2F3 /* CormorantGaramond-BoldItalic.ttf in Resources */,
+				B00F5B784AF24E2EA72851EC /* CormorantGaramond-LightItalic.ttf in Resources */,
+				2EAF73991CBD482A8808AEE6 /* CormorantGaramond-Light.ttf in Resources */,
+				C979A3AFA2F64F0D985D1396 /* CormorantGaramond-SemiBold.ttf in Resources */,
+				A74745CDFA4043E0ADE9351D /* CormorantGaramond-MediumItalic.ttf in Resources */,
+				721E6C8056D745B588824F81 /* CormorantGaramond-Regular.ttf in Resources */,
+				B5C4D5E35D834483AA4AE6C8 /* CormorantGaramond-Bold.ttf in Resources */,
+				1DDFD2B2FAAF4ADA9F40DCED /* CormorantGaramond-SemiBoldItalic.ttf in Resources */,
+				6E0ABE61F0C0480BA409261E /* CormorantGaramond-Medium.ttf in Resources */,
+				0B6439B1BBAC414994DB79F0 /* Manrope-Medium.ttf in Resources */,
+				7DD9C46BCF7E45D7B84A976E /* Manrope-SemiBold.ttf in Resources */,
+				EE7C10EB208E470282C7E372 /* Manrope-ExtraBold.ttf in Resources */,
+				8134A4B70782444FB1123095 /* Manrope-Regular.ttf in Resources */,
+				000F6B72CD8841DEA22AB294 /* Manrope-ExtraLight.ttf in Resources */,
+				B3BDC7CCD67644EF89489AF4 /* Manrope-Light.ttf in Resources */,
+				4E269A4510F5479E9A8DF807 /* Manrope-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -191,9 +267,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-GreenHorizonWalksInMadrid/Pods-GreenHorizonWalksInMadrid-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-GreenHorizonWalksInMadrid/Pods-GreenHorizonWalksInMadrid-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -230,9 +310,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-GreenHorizonWalksInMadrid/Pods-GreenHorizonWalksInMadrid-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-GreenHorizonWalksInMadrid/Pods-GreenHorizonWalksInMadrid-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -273,7 +357,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.fslfjho.dsjlqo;
 				PRODUCT_NAME = GreenHorizonWalksInMadrid;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -300,7 +384,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.fslfjho.dsjlqo;
 				PRODUCT_NAME = GreenHorizonWalksInMadrid;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -376,10 +460,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -448,10 +529,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
