@@ -1,6 +1,7 @@
 import React, {useCallback, useEffect, useMemo, useRef, useState} from 'react';
 import {
   Image,
+  Platform,
   Pressable,
   StyleSheet,
   Text,
@@ -400,8 +401,8 @@ const styles = StyleSheet.create({
     marginTop: -1,
   },
   grreenhorznwalkksMarkerWrap: {
-    width: 40,
-    height: 40,
+    width: Platform.OS === 'ios' ? 40 : 28,
+    height: Platform.OS === 'ios' ? 40 : 28,
     borderRadius: 999,
     alignItems: 'center',
     justifyContent: 'center',
