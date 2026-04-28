@@ -6,6 +6,7 @@ workflows:
     integrations:
       app_store_connect: WalksIInAPIKey
     environment:
+      xcode: '16.4'
       ios_signing:
         distribution_type: app_store
         bundle_identifier: com.fslfjho.dsjlqo
@@ -18,6 +19,10 @@ workflows:
       - name: Install npm dependencies
         script: |
           npm install
+      - name: Clean Pods
+        script: |
+          cd ios
+          rm -rf Pods Podfile.lock
       - name: Install CocoaPods dependencies
         script: |
           cd ios && pod install
